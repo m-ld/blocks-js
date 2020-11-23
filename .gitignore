@@ -1,0 +1,10 @@
+node_modules
+
+# distribution folder
+dist/
+
+# Mac
+.DS_Store
+
+# VSCode config
+.vscode/
